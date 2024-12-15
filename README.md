@@ -55,5 +55,3 @@ Les contributions sont les bienvenues ! Si vous avez des suggestions ou des corr
 
 Ce projet est sous la licence MIT. Voir le fichier LICENSE pour plus de détails.
 ```
-
-Cela ajoute des emojis pour rendre le fichier plus dynamique et visuellement attrayant. Vous pouvez enregistrer ce contenu dans un fichier **README.md**.
