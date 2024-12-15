@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">MyTaxi</string>
+    <string name="distance_format">Distance: %1$s km</string>
+    <string name="time_elapsed_format">Time: %1$d min</string>
+    <string name="total_fare_format">Fare: %1$s DH</string>
+    <string name="end_ride">End Ride</string>
+    <string name="start_ride">Start Ride</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="f_name"> First Name</string>
+    <string name="l_name"> Last Name</string>
+    <string name="age"> Age</string>
+    <string name="license"> License Type</string>
+    <string name="go_to"> Go to position</string>
+    <string name="add"> Add</string>
+    <string name="add_driver"> Add Driver:</string>
+
+</resources>

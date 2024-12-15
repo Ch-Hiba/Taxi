@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">MyTaxi</string>
+    <string name="distance_format">المسافة: %1$s كم</string>
+    <string name="time_elapsed_format">الوقت: %1$d دقيقة</string>
+    <string name="total_fare_format">الأجرة: %1$s درهم</string>
+    <string name="end_ride">إنهاء الرحلة</string>
+    <string name="start_ride">بدء الرحلة</string>
+    <string name="hello_blank_fragment">مرحباً، هذا Fragment فارغ</string>
+    <string name="f_name">الاسم الأول:</string>
+    <string name="l_name">الاسم الأخيز:</string>
+    <string name="age">العمر:</string>
+    <string name="license">نوع الرخصة:</string>
+    <string name="go_to">الذهاب إلى الموقع</string>
+    <string name="add">إضافة</string>
+    <string name="add_driver">إضافة سائق:</string>
+</resources>

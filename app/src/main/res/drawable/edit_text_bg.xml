@@ -1,0 +1,6 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="#FFFFFF" />
+        <corners android:radius="16dp" /> <!-- Coins arrondis, vous pouvez ajuster la valeur -->
+        <stroke android:color="#B0B0B0" android:width="1dp" /> <!-- Bordure grise -->
+    </shape>
+

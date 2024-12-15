@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/background_activity"
+    android:gravity="center"
+    tools:context=".ui.fragments.profile.ProfileFragment">
+
+    <ImageView
+        android:layout_width="97dp"
+        android:layout_height="84dp"
+        android:layout_gravity="center"
+        android:src="@drawable/taxi" />
+
+    <TextView
+        android:id="@+id/tvAddAccount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_driver"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:gravity="center"
+        android:layout_gravity="center" />
+
+
+    <EditText
+        android:id="@+id/etFirstName"
+        android:paddingLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:textColor="#000000"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/edit_text_bg"
+        android:hint="@string/f_name"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/etLastName"
+        android:paddingLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:layout_marginTop="30dp"
+        android:textColor="#000000"
+        android:hint="@string/l_name"
+        android:textSize="18sp"
+        android:background="@drawable/edit_text_bg" />
+
+    <EditText
+        android:id="@+id/etAge"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:paddingLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:hint="@string/age"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        android:background="@drawable/edit_text_bg" />
+
+    <EditText
+        android:id="@+id/etPermiType"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/edit_text_bg"
+        android:hint="@string/license"
+        android:textColor="#000000"
+        android:paddingLeft="15dp"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btnAddDriver"
+        android:layout_width="114dp"
+        android:layout_height="55dp"
+        android:layout_margin="50dp"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#FFD700"
+        android:text="@string/add"
+        android:textColor="@color/black"
+        android:textSize="20dp" />
+
+</LinearLayout>
