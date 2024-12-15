@@ -1,6 +1,6 @@
 # MyTaxi 🚖
 
-![MyTaxi Cover](./cover.jpg) <!-- Remplacez "./cover.jpg" par le chemin ou l'URL de votre image -->
+![MyTaxi Cover](cover.png) <!-- Remplacez "./cover.jpg" par le chemin ou l'URL de votre image -->
 
 **MyTaxi** est une application mobile Android développée en Kotlin permettant de simuler le fonctionnement d'un compteur de taxi. L'application calcule en temps réel la distance parcourue, le temps de trajet et le tarif de la course. Elle intègre également des fonctionnalités telles que le suivi en temps réel de la position du chauffeur sur Google Maps, la gestion des notifications, et un profil utilisateur interactif.
 
